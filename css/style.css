@@ -615,10 +615,10 @@ a {
 		padding: 10px 30px 10px 0;
 	}
 
-	/*.header {
+	.header {
 		min-width: 580px;
 	}
-*/
+
 	.header-slider__description {
 		margin-bottom: 20px;
 		font-size: 20px;
