@@ -616,7 +616,7 @@ a {
 	}
 
 	.header {
-		min-width: 580px;
+		max-width: 580px;
 	}
 
 	.header-slider__description {
